@@ -209,3 +209,4 @@ No desktop required!
 ## Join us on Discord
 
 Join the Textual developers and community on our [Discord Server](https://discord.gg/Enf6Z3qhVr).
+daily oss pr 2026-04-29
